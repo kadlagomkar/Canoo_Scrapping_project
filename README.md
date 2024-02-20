@@ -4,7 +4,7 @@ This project takes input from user and generate's financial report. It generate 
 
 ## Steps
 
-In this project I have analysed Canoo. Canoo is an electric automotive company based in US. It was founded by Ulrich Kranz in 2017. Canoo's mission is to make electric
+In this project I have analysed Canoo INC. Canoo is an electric automotive company based in US. It was founded by Ulrich Kranz in 2017. Canoo's mission is to make electric
 vehicles (EVs) available to everyone. Canoo's goal is to lead the automotive industry's transition to clean and sustainable energy.
 
 Canoo offers a variety of vehicles, including
