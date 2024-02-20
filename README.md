@@ -1,6 +1,6 @@
 ## In a nutshell
 
-This project takes input from user and generate's financial report. It generate links through internet search API DuckDuckGo, filters only finance.yahoo website links. Extract symbol from weblink using regex, pass it in yfinance python library as ticker and generate financial charts and reports. The final output has csv file which contains yearly and quaterly financials of the comany.
+This project generates a financial report based on user input. It creates links using the DuckDuckGo internet search API, filtering out links to the finance.yahoo.com domain. Using regex, extract the symbol from the weblink, send it as a ticker to the yfinance Python package, and produce financial reports and charts. The final output includes a CSV file with the company's quarterly and annual financial data.
 
 ## Steps
 
