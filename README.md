@@ -15,9 +15,6 @@ Modular electric platform.
 
 Canoo has Market cap of $156,933,008 and is competing with Rivian Automotive, Fisker and Lucid group.
 
-
-My Approach goes by:
-
 1.DuckDuckGo API Search:
 
 Use the DuckDuckGo API to search for links related to Canoo.
@@ -77,4 +74,4 @@ According to The Motley Fool, Canoo used to be a Wall Street darling during the 
 
 To address this issue I started using the Beautifulscop Python Library with Scrapy. It didn't produce any results when I applied it on the Nasdaq website. The main reason for this was that the Nasdaq website was dynamic, meaning that data was updated every minute.
 
-I learned about the Yfinance Library later. It is used for financial analysis using pyton. It seemed like the best source to go from there. Using this library, I examined Canoo's whole financial records, created graphs, and researched its competitors. Later, I started working on the Internet Search API and extracted finance.yahoo website's links from it. I then used regex to extract symbols that are present in the later part of the weblink. I was able to save the data in CSV format and solve every problem in the problem statement by using this method.
+Later, I learned about the Yfinance Library, it is used for financial analysis using pyton. It seemed like the best source to go from there. Using this library, I examined Canoo's whole financial records, created graphs, and researched its competitors. Later, I started working on the Internet Search API and extracted finance.yahoo website's links from it. I then used regex to extract symbols that are present in the later part of the weblink. I was able to save the data in CSV format and solve every problem in the problem statement by using this method.
